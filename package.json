@@ -8,8 +8,8 @@
     "start": "node server.js",
     "seeds": "node seeds/index.js"
   },
-  "author": "t-norm",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "bcrypt": "^4.0.1",
     "dotenv": "^8.2.0",
